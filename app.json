@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "netowrk_checker",
+    "slug": "netowrk_checker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "netowrk_checker"
+}
