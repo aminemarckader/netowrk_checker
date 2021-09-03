@@ -1564,6 +1564,11 @@
     sudo-prompt "^9.0.0"
     wcwidth "^1.0.1"
 
+"@react-native-community/netinfo@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@react-native-community/netinfo/-/netinfo-6.0.0.tgz#2a4d7190b508dd0c2293656c9c1aa068f6f60a71"
+  integrity sha512-Z9M8VGcF2IZVOo2x+oUStvpCW/8HjIRi4+iQCu5n+PhC7OqCQX58KYAzdBr///alIfRXiu6oMb+lK+rXQH1FvQ==
+
 "@types/hammerjs@^2.0.36":
   version "2.0.40"
   resolved "https://registry.yarnpkg.com/@types/hammerjs/-/hammerjs-2.0.40.tgz#ded0240b6ea1ad7afc1e60374c49087aaea5dbd8"
@@ -4858,6 +4863,11 @@ react-native-gesture-handler@~1.10.2:
     hoist-non-react-statics "^3.3.0"
     invariant "^2.2.4"
     prop-types "^15.7.2"
+
+react-native-ping@^1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/react-native-ping/-/react-native-ping-1.2.6.tgz#94699c3f2c10ee879434ae6bd7355a0ce9f3d961"
+  integrity sha512-yntRkKXrNKf+27mZA2R4CJxU7yQPrN/EVoGzuCX5PL4qvEUx1aD9acpUX3wey3BAIWRmDjklcOVFazS+OR07Wg==
 
 react-native-reanimated@~2.2.0:
   version "2.2.0"
